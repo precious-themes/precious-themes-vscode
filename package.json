@@ -1,0 +1,51 @@
+{
+  "name": "precious-themes-vscode",
+  "displayName": "Precious Themes",
+  "description": "Precious color themes",
+  "version": "1.0.0",
+  "icon": "./icons/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "4lex4",
+  "author": {
+    "name": "4lex4",
+    "email": "<4lex49@zoho.com>"
+  },
+  "license": "See LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/4lex4/precious-themes-vscode.git"
+  },
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "Precious Light White",
+        "label": "Precious Light White",
+        "uiTheme": "vs",
+        "path": "./themes/precious-light-white.json"
+      },
+      {
+        "id": "Precious Light Warm",
+        "label": "Precious Light Warm",
+        "uiTheme": "vs",
+        "path": "./themes/precious-light-warm.json"
+      },
+      {
+        "id": "Precious Dark Fifteen",
+        "label": "Precious Dark Fifteen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/precious-dark-fifteen.json"
+      },
+      {
+        "id": "Precious Dark Eleven",
+        "label": "Precious Dark Eleven",
+        "uiTheme": "vs-dark",
+        "path": "./themes/precious-dark-eleven.json"
+      }
+    ]
+  }
+}
