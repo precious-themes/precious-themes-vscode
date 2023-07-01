@@ -1,7 +1,7 @@
 {
   "name": "precious-themes-vscode",
   "displayName": "Precious Themes",
-  "description": "Precious color themes",
+  "description": "Precious themes for VS Code",
   "version": "1.0.0",
   "icon": "./icons/icon.png",
   "categories": [
@@ -15,7 +15,7 @@
   "license": "See LICENSE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/4lex4/precious-themes-vscode.git"
+    "url": "https://github.com/precious-themes/precious-themes-vscode.git"
   },
   "engines": {
     "vscode": "^1.5.0"
