@@ -2,8 +2,8 @@
   "name": "precious-themes-vscode",
   "displayName": "Precious Themes",
   "description": "Precious themes for VS Code",
-  "version": "1.0.0",
-  "icon": "./icons/icon.png",
+  "version": "1.0.1",
+  "icon": "icons/icon.png",
   "categories": [
     "Themes"
   ],
