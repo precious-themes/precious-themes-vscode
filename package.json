@@ -2,7 +2,7 @@
   "name": "precious-themes-vscode",
   "displayName": "Precious Themes",
   "description": "Precious themes for VS Code",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "icons/icon.png",
   "categories": [
     "Themes"
@@ -10,7 +10,7 @@
   "publisher": "4lex4",
   "author": {
     "name": "4lex4",
-    "email": "<4lex49@zoho.com>"
+    "email": "4lex49@zoho.com"
   },
   "license": "See LICENSE",
   "repository": {
